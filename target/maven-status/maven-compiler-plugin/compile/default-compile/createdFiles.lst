@@ -1,0 +1,5 @@
+rest\DispatcherConfig.class
+rest\AppConfig.class
+hello\HelloBean.class
+rest\HelloWorldRestController.class
+rest\MyWebAppInitializer.class
